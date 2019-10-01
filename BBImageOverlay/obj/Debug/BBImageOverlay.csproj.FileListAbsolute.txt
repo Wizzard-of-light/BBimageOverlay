@@ -1,0 +1,11 @@
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.FormDialog.resources
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.Properties.Resources.resources
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.csproj.GenerateResource.cache
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.csprojAssemblyReference.cache
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\bin\Debug\BBImageOverlay.exe.config
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\bin\Debug\BBImageOverlay.exe
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\bin\Debug\BBImageOverlay.pdb
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.exe
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.pdb
+C:\Users\Markus\source\repos\BBImageOverlay\BBImageOverlay\obj\Debug\BBImageOverlay.bblineForm.resources
